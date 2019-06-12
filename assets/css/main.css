@@ -3869,7 +3869,7 @@ input, select, textarea {
 /* Footer */
 
 	#footer {
-		padding: 2em 0 2em 0 ;
+		padding: 1.5em 0 1em 0 ;
 		background-color: #1d242a;
 		text-align: center;
 	}
@@ -3879,7 +3879,7 @@ input, select, textarea {
 		}
 
 		#footer > ul {
-			margin: 0 0 1em 0;
+			margin: 0 0 0.5em 0;
 		}
 
 			#footer .icons a {
